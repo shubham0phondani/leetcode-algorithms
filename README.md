@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0035-search-insert-position) |
 | [1603-running-sum-of-1d-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/1603-running-sum-of-1d-array) |
+| [2058-concatenation-of-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/1603-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
