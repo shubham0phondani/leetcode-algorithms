@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/1603-running-sum-of-1d-array) |
+| [1646-kth-missing-positive-number](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/1646-kth-missing-positive-number) |
 | [2058-concatenation-of-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1646-kth-missing-positive-number](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/1646-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
