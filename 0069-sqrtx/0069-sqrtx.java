@@ -1,22 +1,23 @@
 class Solution {
     public int mySqrt(int x) {
-        int i = 0;
-        int l = x;
-        while(i<=l)
+        long r = x;
+        long l = 0;
+        while(r>=l)
         {
-            int mid = i + (l-i)/2;
-            if (mid*mid == x )
+            long mid = l + (r-l)/2;
+            if(mid*mid == x)
             {
-                return mid;
+                return (int)mid;
             }
-            else if((long)mid*mid > (long)x)
+            else if(mid*mid > x)
             {
-                l = mid - 1;
+                r = mid - 1;
             }
-            else {
-                i = mid + 1;
+            else
+            {
+                l = mid + 1;
             }
         }
-          return l;
+        return (int)r;
     }
 }
