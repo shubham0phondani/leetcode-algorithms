@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0035-search-insert-position) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/1646-kth-missing-positive-number) |
