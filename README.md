@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/shubham0phondani/leetcode-algorithms/tree/master/0278-first-bad-version) |
